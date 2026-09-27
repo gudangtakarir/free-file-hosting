@@ -13,3 +13,4 @@
 11. https://limewire.com/
 12. https://www.sendgb.com/en
 13. https://1fichier.com/
+14. https://hexload.com/
