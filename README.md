@@ -14,3 +14,4 @@
 12. https://www.sendgb.com/en
 13. https://1fichier.com/
 14. https://hexload.com/
+15. https://multiup.io/en/
